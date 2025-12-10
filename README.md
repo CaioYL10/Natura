@@ -46,7 +46,14 @@
   <summary><h2>Ferramentas utilizadas ⌨️🖱️</h2></summary>
 
 
-####  ![PHP Logo](https://pngdownload.io/wp-content/uploads/2024/02/PHP-Logo-symbol-of-the-scripting-language-web-development-transparent-PNG-image-jpg.web)
+<p align="left">
+  <img src="ReadmeImgs/css.png" width="60"/>
+  <img src="ReadmeImgs/figma.png" width="60"/>
+  <img src="ReadmeImgs/gimp.png" width="60"/>
+  <img src="ReadmeImgs/html.png" width="60"/>
+  <img src="ReadmeImgs/php.png" width="60"/>
+  <img src="ReadmeImgs/sql.png" width="60"/>
+</p>
 
 
 
